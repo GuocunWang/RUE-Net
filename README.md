@@ -3,7 +3,8 @@
 The code will be made public after the paper is accepted.
 
 ## The model structure diagram of RUE-Net
-![RUE_Net2 drawio](https://github.com/GuocunWang/RUE-Net/assets/103011611/c2cf9e2b-bdc4-4a9b-b64f-ed6fca55ee5f)
+![RUE_Net2 drawio](https://github.com/GuocunWang/RUE-Net/assets/103011611/27cddaa3-bc17-4b37-ba7d-11300b9c73fe)
+
 
 
 

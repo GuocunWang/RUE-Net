@@ -4,15 +4,15 @@ Implementation of the paper *[RUE-Net: Advancing Underwater Vision with Live Ima
 ## Introduction
 In this paper, we put forward a real-time underwater image enhancement network (RUE-Net). Compared to previous advanced models using single branch structure or traditional U-shaped networks, it consists of parallel Receptive Field Enhancement (RFE) Module and Fine Grain Detail (FGD) Module, which perform parallel modeling and fusion of image information at global and local scales. 
 
-## The model structure diagram of RUE-Net
+## Model structure
 ![RUE_Net2 drawio](https://github.com/GuocunWang/RUE-Net/assets/103011611/11973434-ef72-449b-a09a-dc71b4b7cc6c)
 
-## Ablation study of RUE-Net
+## Ablation study
 
 ![消融实验](https://github.com/GuocunWang/RUE-Net/assets/103011611/ca6ef2c3-c13a-4737-98d3-052afa515bf1)
 
 
-## Recommended environment:
+## Recommended environment
 ```
 Python 3.8
 torch 1.8.0+cu111

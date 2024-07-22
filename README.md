@@ -7,11 +7,6 @@ In this paper, we put forward a real-time underwater image enhancement network (
 ## Model structure
 ![RUE_Net2 drawio](https://github.com/GuocunWang/RUE-Net/assets/103011611/11973434-ef72-449b-a09a-dc71b4b7cc6c)
 
-## Ablation study
-
-![消融实验](https://github.com/GuocunWang/RUE-Net/assets/103011611/ca6ef2c3-c13a-4737-98d3-052afa515bf1)
-
-
 ## Recommended environment
 ```
 Python 3.8

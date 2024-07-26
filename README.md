@@ -1,5 +1,6 @@
 # RUE-Net: Advancing Underwater Vision with Live Image Enhancement
-Implementation of the paper *[RUE-Net: Advancing Underwater Vision with Live Image Enhancement](https://ieeexplore.ieee.org/abstract/document/10537222)* *[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10537222)*
+Implementation of the paper *[RUE-Net: Advancing Underwater Vision with Live Image Enhancement](https://ieeexplore.ieee.org/abstract/document/10537222)* 
+Here is the link to the *[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10537222)*
 
 
 ## Introduction

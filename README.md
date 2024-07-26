@@ -1,5 +1,6 @@
 # RUE-Net: Advancing Underwater Vision with Live Image Enhancement
-Implementation of the paper *[RUE-Net: Advancing Underwater Vision with Live Image Enhancement](https://ieeexplore.ieee.org/abstract/document/10537222)*
+Implementation of the paper *[RUE-Net: Advancing Underwater Vision with Live Image Enhancement](https://ieeexplore.ieee.org/abstract/document/10537222)* *[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10537222)*
+
 
 ## Introduction
 In this paper, we put forward a real-time underwater image enhancement network (RUE-Net). Compared to previous advanced models using single branch structure or traditional U-shaped networks, it consists of parallel Receptive Field Enhancement (RFE) Module and Fine Grain Detail (FGD) Module, which perform parallel modeling and fusion of image information at global and local scales. 
